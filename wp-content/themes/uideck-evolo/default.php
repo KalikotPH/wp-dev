@@ -469,19 +469,19 @@
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h2>Fill The Following Form To Request A Meeting</h2>
-                        <p>PasaBuy is one of the easiest and feature packed marketing automation apps in the market. Discover what it can do for your business organization right away.</p>
+                        <p>We offers a multitude of unique amenities. Coupled with high-speed internet and spacious work-spaces, we provide an amazing place for our members.</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-check"></i>
-                                <div class="media-body"><strong class="blue">Automate your marketing</strong> activities and get results today</div>
+                                <div class="media-body"><strong class="blue">Automate your processing</strong> data and get reports daily</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-check"></i>
-                                <div class="media-body"><strong class="blue">Interact with all your</strong> targeted customers at a personal level</div>
+                                <div class="media-body"><strong class="blue">Interact with all your</strong> employee at a personal level</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-check"></i>
-                                <div class="media-body"><strong class="blue">Convince them to buy</strong> your company's awesome products</div>
+                                <div class="media-body"><strong class="blue">Convince client to maintain</strong> loyalty to your service</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-check"></i>
@@ -513,9 +513,12 @@
                             <div class="form-group">
                                 <select class="form-control-select" id="rselect" required>
                                     <option class="select-option" value="" disabled selected>Interested in...</option>
-                                    <option class="select-option" value="Personal Loan">Seller</option>
-                                    <option class="select-option" value="Car Loan">Mover</option>
-                                    <option class="select-option" value="House Loan">Store</option>
+                                    <option class="select-option" value="Life-Insurance">Life Insurance Service</option>
+                                    <option class="select-option" value="Health-Insurance">Health Insurance Service</option>
+                                    <option class="select-option" value="Physicians-Service">Physicians Service</option>
+                                    <option class="select-option" value="Patients-Service">Patients Service</option>
+                                    <option class="select-option" value="Legal-Service">Legal Service</option>
+                                    <option class="select-option" value="Software-As-A-Service">Software as a Service</option>
                                 </select>
                                 <div class="help-block with-errors"></div>
                             </div>
