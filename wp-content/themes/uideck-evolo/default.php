@@ -23,12 +23,13 @@
         </div>
     </header>
 
-    <!-- Customers -->
-    <div class="slider-1">
+    <!-- Services -->
+    <div id="services" class="slider-1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h5>Trusted By</h5>
+                    <h5>How we can Help you?</h5>
+                    <p class="p-heading p-large">We deliver service-focused excellence in order to help create a competitive advantage for your business. They are thoroughly trained to support best-in-class product, service and brand experiences for your customers.</p>
                     
                     <!-- Image Slider -->
                     <div class="slider-container">
@@ -76,8 +77,8 @@
     <!-- end of customers -->
 
 
-    <!-- Services -->
-    <div id="services" class="cards-1">
+    <!-- Features -->
+    <div id="features" class="cards-1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

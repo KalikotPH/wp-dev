@@ -66,6 +66,9 @@
                         <a class="nav-link page-scroll" href="#services">Services</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#features">Technology</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link page-scroll" href="#pricing">Pricings</a>
                     </li>
                     <li class="nav-item">
