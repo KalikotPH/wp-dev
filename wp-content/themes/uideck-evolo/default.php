@@ -557,7 +557,7 @@
                     <!-- Video Preview -->
                     <div class="image-container">
                         <div class="video-wrapper">
-                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=fLCjQJCekTs" data-effect="fadeIn">
+                            <a class="popup-youtube" href="https://www.youtube.com/watch?time_continue=1&v=GJVLe1SNikI" data-effect="fadeIn">
                                 <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/images/video-frame.svg" alt="alternative">
                                 <span class="video-play-button">
                                     <span></span>
@@ -567,7 +567,7 @@
                     </div> <!-- end of image-container -->
                     <!-- end of video preview -->
 
-                    <p>This video will show you a case study for one of our <strong>Major Customers</strong> and will help you understand why your startup needs PasaBuy in this highly competitive market</p>
+                    <p>Our core values shape the culture and define the character of our company. We live the core values through individual behaviors. They serve as a foundation in how we act and make decisions.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
