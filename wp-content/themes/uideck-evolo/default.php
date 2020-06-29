@@ -82,45 +82,86 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Business Growth Services</h2>
-                    <p class="p-heading p-large">We serve small and medium sized companies in all tech related industries with high quality growth services which are presented below</p>
+                    <h2>Why choose Us</h2>
+                    <p class="p-heading p-large">We serve small to large sized companies in all tech related industries with high quality growth features which are presented below.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
-                <div class="col-lg-12">
-
-                    <!-- Card -->
+                <div class="col-lg-3 col-md-6">
                     <div class="card">
-                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/services-icon-1.svg" alt="alternative">
+                        <i class="fas fa-user-graduate fa-5x"></i>
                         <div class="card-body">
-                            <h4 class="card-title">Market Analysis</h4>
-                            <p>Our team of enthusiastic marketers will analyse and evaluate how your company stacks against the closest competitors</p>
+                            <h4 class="card-title">We know what we do</h4>
+                            <p>Our service is encoded in our DNA that evolve through time.</p>
                         </div>
                     </div>
-                    <!-- end of card -->
-
-                    <!-- Card -->
+                </div>
+                <div class="col-lg-3 col-md-6">
                     <div class="card">
-                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/services-icon-2.svg" alt="alternative">
+                        <i class="fas fa-hand-holding-usd fa-5x"></i>
                         <div class="card-body">
-                            <h4 class="card-title">Opportunity Scan</h4>
-                            <p>Once the market analysis process is completed our staff will search for opportunities that are in reach</p>
+                            <h4 class="card-title">Save more Money with Us</h4>
+                            <p>We focus more on the quality of our service then profit.</p>
                         </div>
                     </div>
-                    <!-- end of card -->
-
-                    <!-- Card -->
+                </div>
+                <div class="col-lg-3 col-md-6">
                     <div class="card">
-                        <img class="card-image" src="<?php echo get_template_directory_uri(); ?>/assets/images/services-icon-3.svg" alt="alternative">
+                        <i class="fas fa-lightbulb fa-5x"></i> 
                         <div class="card-body">
-                            <h4 class="card-title">Action Plan</h4>
-                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                            <h4 class="card-title">We share Ideas to our Clients</h4>
+                            <p>Our clients is always given any significant suggestions.</p>
                         </div>
                     </div>
-                    <!-- end of card -->
-                    
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <i class="fas fa-bullhorn fa-5x"></i>
+                        <div class="card-body">
+                            <h4 class="card-title">Update is a Must on Time</h4>
+                            <p>We always make sure that our clients is always up to date.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3  col-md-6">
+                    <div class="card">
+                        <i class="fas fa-compass fa-5x"></i>
+                        <div class="card-body">
+                            <h4 class="card-title">Business Navigation</h4>
+                            <p>We help you navigate your business towards success.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3  col-md-6">
+                    <div class="card">
+                        <i class="fas fa-shield-alt fa-5x"></i>
+                        <div class="card-body">
+                            <h4 class="card-title">Server Level Protection</h4>
+                            <p>If a majour vulnerability apperas , we develop & apply server-level fixes.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3  col-md-6">
+                    <div class="card">
+                        <i class="fas fa-history fa-5x"></i>
+                        <div class="card-body">
+                            <h4 class="card-title">Free 24x7/365 Support</h4>
+                            <p>You can reach our team at any time, day or night.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3  col-md-6">
+                    <div class="card">
+                        <i class="fas fa-money-bill-wave fa-5x" style="padding-bottom: 20px;"></i>
+                        <div class="card-body">
+                            <h4 class="card-title">30 Day Money-back Garantee</h4>
+                            <p>If your not completely satisfied, simply cancel with 30 days.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div> <!-- end of container -->
     </div> <!-- end of cards-1 -->
     <!-- end of services -->
