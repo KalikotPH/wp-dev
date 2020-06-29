@@ -76,15 +76,15 @@
                     </li>
 
                     <!-- Dropdown Menu -->          
-                    <li class="nav-item dropdown">
+                    <!-- <li class="nav-item dropdown">
                     <a class="nav-link page-scroll" href="#about" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
-                        <!-- <a class="nav-link dropdown-toggle page-scroll" href="#about" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+                        <a class="nav-link dropdown-toggle page-scroll" href="#about" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="#terms"><span class="item-text">Terms Conditions</span></a>
                             <div class="dropdown-items-divide-hr"></div>
                             <a class="dropdown-item" href="#privacy"><span class="item-text">Privacy Policy</span></a>
-                        </div> -->
-                    </li>
+                        </div>
+                    </li> -->
                     <!-- end of dropdown menu -->
 
                     <li class="nav-item">
