@@ -173,9 +173,9 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h2>Design And Plan Your Business Growth Steps</h2>
-                        <p>Use our staff and our expertise to design and plan your business growth strategy. PasaBuy team is eager to advise you on the best opportunities that you should look into</p>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-1">LIGHTBOX</a>
+                        <h2>Driven by meticulously trained peoples</h2>
+                        <p>We work hard to provide our customers unique experiences which guide them to discover the art of publishing. Their feedback is awesome and it inspires us to explore new horizons, looking for entirely new solutions!</p>
+                        <a class="btn-solid-reg popup-with-move-anim" href="#contact">GETTING STARTED</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
@@ -200,22 +200,22 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h2>Search For Optimization Wherever Is Possible</h2>
+                        <h2>Awesome Team</h2>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-check"></i>
-                                <div class="media-body">Basically we'll teach you step by step what you need to do</div>
+                                <div class="media-body">We listen to your needs and by offering innovative, affordable solutions.</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-check"></i>
-                                <div class="media-body">In order to develop your company and reach new heights</div>
+                                <div class="media-body">We offer a flexible, open and understanding approach to ensure complete customer satisfaction.</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-check"></i>
-                                <div class="media-body">Everyone will be pleased from stakeholders to employees</div>
+                                <div class="media-body">We are prepared to meet your business's security standards and also maintain it.</div>
                             </li>
                         </ul>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-2">LIGHTBOX</a>
+                        <a class="btn-solid-reg popup-with-move-anim" href="#contact">GETTING STARTED</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
