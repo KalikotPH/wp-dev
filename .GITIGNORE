@@ -1,13 +1,22 @@
-# HERE ARE THE KEY TO IGNORE FILES OR SPECIFIC PATHS.
-#
-# Files in ANY path: 
-#   *.ext
-# Root Folders: 
-#   node_modules/
-# Folder or File with the same pre-name: 
-#   wp-content/plugins/learnpress*/
-# Ignore everything in a path except:
-    wp-content/*
-    !wp-content/plugins/*
-    !wp-content/themes/uideck-evolo/
-#
+# ignore everything in the root except the "wp-content" directory.
+#!wp-content/
+
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory
+#wp-content/*
+#!wp-content/mu-plugins/
+#!wp-content/plugins/
+#!wp-content/themes/
+
+# ignore these plugins
+#wp-content/plugins/hello.php
+
+# ignore specific themes
+#wp-content/themes/twenty*/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+wp-content/uploads*
