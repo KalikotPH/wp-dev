@@ -5,12 +5,12 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="text-container">
-                            <h1><span class="turquoise">Duisaute irure</span> Utenim ad minim</h1>
-                            <p class="p-large">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <a class="btn-solid-lg page-scroll" href="#services" Style="background-color: #4d4d4d; font-size: 18px; margin-bottom: 20px; margin-right: 10px;">
+                            <h1><span class="turquoise">We have Experience</span> <br>that work for you</h1>
+                            <p class="p-large">We offers a customizable online solution for ordering and managing the retrieval of medical records. <br><br>Our advanced technology and leading digital imaging process allows us to provide fast, reliable, efficient and cost-effective solutions for your record retrieval needs.</p>
+                            <!-- <a class="btn-solid-lg page-scroll" href="#services" Style="background-color: #4d4d4d; font-size: 18px; margin-bottom: 20px; margin-right: 10px;">
                                 <i class="fab fa-google-play" Style="margin-right: 10px;"> </i>PlayStore</a>
                             <a class="btn-solid-lg page-scroll" href="#services" Style="background-color: #4d4d4d; font-size: 18px; margin-bottom: 20px;">
-                                <i class="fab fa-apple" Style="margin-right: 10px;"></i>AppStore</a>
+                                <i class="fab fa-apple" Style="margin-right: 10px;"></i>AppStore</a> -->
                         </div>
                     </div>
                     <div class="col-lg-6">

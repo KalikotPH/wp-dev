@@ -48,7 +48,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">PasaBuy</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand logo-image" href="index.html"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="alternative"></a>
+            <a class="navbar-brand logo-image" href="<?php echo home_url(); ?>"><img src="<?php getCustomLogo(); ?>" alt="alternative"></a>
             
             <!-- Mobile Menu Toggle Button -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -66,7 +66,7 @@
                         <a class="nav-link page-scroll" href="#services">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#pricing">Partners</a>
+                        <a class="nav-link page-scroll" href="#pricing">Pricings</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#request">Request</a>
