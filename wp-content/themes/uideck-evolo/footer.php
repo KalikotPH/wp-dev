@@ -14,8 +14,8 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="footer-col">
-                            <h4>About PasaBuy App</h4>
-                            <p>We're passionate about offering some of the best business growth services for startups.</p>
+                            <h4>AHM Outsourcing Inc.</h4>
+                            <p>3rd Floor, Esperanza Building, Pacita Avenue, San Pedro, Laguna, Philippines 4023</p>
                         </div>
                     </div> <!-- end of col -->
                     <div class="col-md-4">
@@ -24,11 +24,11 @@
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
                                     <i class="fas fa-square"></i>
-                                    <div class="media-body">Our business partners <a class="turquoise" href="#your-link">Marketplace</a></div>
+                                    <div class="media-body">Inquiries: <a class="turquoise" href="mailto:info@ahmoutsourcing.com">info@ahmoutsourcing.com</a></div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-square"></i>
-                                    <div class="media-body">Read our <a class="turquoise" href="<?php echo site_url() . '/privacy-policy'; ?>">Terms & Conditions</a>, <a class="turquoise" href="<?php echo site_url() . '/terms-and-conditions'; ?>">Privacy Policy</a></div>
+                                    <div class="media-body">Read our <a class="turquoise" href="<?php echo home_url() . '/terms-and-conditions'; ?>">Terms & Conditions</a>, <a class="turquoise" href="<?php echo home_url() . '/privacy-policy'; ?>">Privacy Policy</a></div>
                                 </li>
                             </ul>
                         </div>
@@ -44,7 +44,7 @@
                                     </a>
                                 </span>
                             <?php } ?>
-                            <?php if(!empty(getThemeField( 'social_fb', '' ))) { ?>
+                            <?php if(!empty(getThemeField( 'social_tw', '' ))) { ?>
                                 <span class="fa-stack">
                                     <a href="<?php echo getThemeField( 'social_tw', '#' ); ?>">
                                         <i class="fas fa-circle fa-stack-2x"></i>
@@ -52,7 +52,7 @@
                                     </a>
                                 </span>
                             <?php } ?>
-                            <?php if(!empty(getThemeField( 'social_fb', '' ))) { ?>
+                            <?php if(!empty(getThemeField( 'social_yt', '' ))) { ?>
                                 <span class="fa-stack">
                                     <a href="<?php echo getThemeField( 'social_yt', '#' ); ?>">
                                         <i class="fas fa-circle fa-stack-2x"></i>
@@ -60,7 +60,7 @@
                                     </a>
                                 </span>
                             <?php } ?>
-                            <?php if(!empty(getThemeField( 'social_fb', '' ))) { ?>
+                            <?php if(!empty(getThemeField( 'social_li', '' ))) { ?>
                                 <span class="fa-stack">
                                     <a href="<?php echo getThemeField( 'social_li', '#' ); ?>">
                                         <i class="fas fa-circle fa-stack-2x"></i>
@@ -79,11 +79,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="p-small">Copyright © <?php echo Date('Y'); ?> <a href="https://pasabuy.app">PasaBuy Tech</a> - All rights reserved</p>
+                        <p class="p-small">Copyright © <?php echo Date('Y'); ?> <a href="https://bytescrafter.net">Bytes Crafter</a> - All rights reserved</p>
                     </div>
                 </div>
             </div>
         </div>
 
+        <!-- jQuery first, then Tether, then Bootstrap JS. -->
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/bootstrap.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/popper.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.easing.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/swiper.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.magnific-popup.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/validator.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/scripts.js"></script>
     </body>
 </html>

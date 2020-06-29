@@ -23,7 +23,7 @@
         </div>
     </header>
 
-<!-- Customers -->
+    <!-- Customers -->
     <div class="slider-1">
         <div class="container">
             <div class="row">
@@ -275,8 +275,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Everyone is Welcome</h2>
-                    <p class="p-heading p-large">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2>Multiple Pricing Options</h2>
+                    <p class="p-heading p-large">We've prepared pricing plans for all budgets so you can get started right away. They're great for small companies and large organizations. These prices reflect standard office positions. Please contact us and talk to our specialist.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
@@ -285,67 +285,36 @@
                     <!-- Card-->
                     <div class="card">
                         <div class="card-body">
-                            <div class="card-title">SELLER</div>
-                            <div class="card-subtitle">Lets harness your potentials</div>
+                            <div class="card-title">BRONZE</div>
+                            <div class="card-subtitle">40 HRS/MONTH</div>
                             <hr class="cell-divide-hr">
                             <div class="price">
-                                <div class="image-container">
-                                    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/images/details-lightbox-2.svg" alt="alternative">
-                                </div>
+                                <span class="currency">$</span><span class="value">500</span>
+                                <div class="frequency">monthly</div>
                             </div>
                             <hr class="cell-divide-hr">
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">Improve Your Email Marketing</div>
+                                    <i class="fas fa-check"></i><div class="media-body">10 Hours Per Week</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">User And Admin Rights Control</div>
+                                    <i class="fas fa-check"></i><div class="media-body">Call Transfer Features</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-times"></i><div class="media-body">List Building And Cleaning</div>
+                                    <i class="fas fa-check"></i><div class="media-body">Training Hours Included</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-times"></i><div class="media-body">Collected Data Management</div>
+                                    <i class="fas fa-check"></i><div class="media-body">HTML5 Remote Desktop</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-times"></i><div class="media-body">More Planning And Evaluation</div>
-                                </li>
-                            </ul>
-                            <div class="button-wrapper">
-                                <a class="btn-solid-reg page-scroll" href="#request">REQUEST</a>
-                            </div>
-                        </div>
-                    </div> <!-- end of card -->
-                    <!-- end of card -->
-
-                    <!-- Card-->
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="card-title">MOVER</div>
-                            <div class="card-subtitle">Very appropriate as partime job</div>
-                            <hr class="cell-divide-hr">
-                            <div class="price">
-                                <div class="image-container">
-                                    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/images/details-lightbox-2.svg" alt="alternative">
-                                </div>
-                            </div>
-                            <hr class="cell-divide-hr">
-                            <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">Improve Your Email Marketing</div>
+                                    <i class="fas fa-check"></i><div class="media-body">Protected by Cloudflare</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">User And Admin Rights Control</div>
+                                    <i class="fas fa-check"></i><div class="media-body">24/7 Email Support</div>
                                 </li>
-                                <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">List Building And Cleaning</div>
-                                </li>
-                                <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">Collected Data Management</div>
-                                </li>
-                                <li class="media">
-                                    <i class="fas fa-times"></i><div class="media-body">More Planning And Evaluation</div>
-                                </li>
+                                <!-- <li class="media">
+                                    <i class="fas fa-times"></i><div class="media-body">Protected by Cloudflare</div>
+                                </li> -->
                             </ul>
                             <div class="button-wrapper">
                                 <a class="btn-solid-reg page-scroll" href="#request">REQUEST</a>
@@ -357,34 +326,39 @@
                     <!-- Card-->
                     <div class="card">
                         <div class="label">
-                            <p class="best-value">VERIFIED</p>
+                            <p class="best-value">BEST OFFER</p>
                         </div>
                         <div class="card-body">
-                            <div class="card-title">STORE</div>
-                            <div class="card-subtitle">Must have for large companies</div>
+                            <div class="card-title">GOLD</div>
+                            <div class="card-subtitle">160 HRS/MONTH</div>
                             <hr class="cell-divide-hr">
                             <div class="price">
-                                <div class="image-container">
-                                    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/images/details-lightbox-2.svg" alt="alternative">
-                                </div>
+                                <span class="currency">$</span><span class="value">1200</span>
+                                <div class="frequency">monthly</div>
                             </div>
                             <hr class="cell-divide-hr">
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">Improve Your Email Marketing</div>
+                                    <i class="fas fa-check"></i><div class="media-body">40 Hours Per Week</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">User And Admin Rights Control</div>
+                                    <i class="fas fa-check"></i><div class="media-body">Call Transfer Features</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">List Building And Cleaning</div>
+                                    <i class="fas fa-check"></i><div class="media-body">Training Hours Included</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">Collected Data Management</div>
+                                    <i class="fas fa-check"></i><div class="media-body">HTML5 Remote Desktop</div>
                                 </li>
                                 <li class="media">
-                                    <i class="fas fa-check"></i><div class="media-body">More Planning And Evaluation</div>
+                                    <i class="fas fa-check"></i><div class="media-body">Protected by Cloudflare</div>
                                 </li>
+                                <li class="media">
+                                    <i class="fas fa-check"></i><div class="media-body">24/7 Email Support</div>
+                                </li>
+                                <!-- <li class="media">
+                                    <i class="fas fa-times"></i><div class="media-body">Protected by Cloudflare</div>
+                                </li> -->
                             </ul>
                             <div class="button-wrapper">
                                 <a class="btn-solid-reg page-scroll" href="#request">REQUEST</a>
@@ -393,6 +367,52 @@
                     </div> <!-- end of card -->
                     <!-- end of card -->
 
+                    <!-- Card-->
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="card-title">SILVER</div>
+                            <div class="card-subtitle">80 HRS/MONTH</div>
+                            <hr class="cell-divide-hr">
+                            <div class="price">
+                                <span class="currency">$</span><span class="value">700</span>
+                                <div class="frequency">monthly</div>
+                            </div>
+                            <hr class="cell-divide-hr">
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                    <i class="fas fa-check"></i><div class="media-body">20 Hours Per Week</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-check"></i><div class="media-body">Call Transfer Features</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-check"></i><div class="media-body">Training Hours Included</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-check"></i><div class="media-body">HTML5 Remote Desktop</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-check"></i><div class="media-body">Protected by Cloudflare</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-check"></i><div class="media-body">24/7 Email Support</div>
+                                </li>
+                                <!-- <li class="media">
+                                    <i class="fas fa-times"></i><div class="media-body">Protected by Cloudflare</div>
+                                </li> -->
+                            </ul>
+                            <div class="button-wrapper">
+                                <a class="btn-solid-reg page-scroll" href="#request">REQUEST</a>
+                            </div>
+                        </div>
+                    </div> <!-- end of card -->
+                    <!-- end of card -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <p class="p-heading p-small">* We deliver service-focused excellence in order to help create a competitive advantage for your business. <br>* They are thoroughly trained to support best-in-class product, service and brand experiences for your customers.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -702,18 +722,20 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2>Contact Information</h2>
-                    <ul class="list-unstyled li-space-lg">
+                    <ul class="list-unstyled li-space-lg" style="margin-bottom: 0;">
                         <li class="address">Don't hesitate to give us a call or send us a contact form message</li>
-                        <li><i class="fas fa-map-marker-alt"></i>22 Innovative Area, San Francisco, BI 4024, PH</li>
-                        <li><i class="fas fa-phone"></i><a class="turquoise" href="tel:639123456789">+63 912 345 6789</a></li>
-                        <li><i class="fas fa-envelope"></i><a class="turquoise" href="mailto:support@pasabuy.app">support@pasabuy.app</a></li>
+                        <li><i class="fas fa-map-marker-alt"></i>3rd Floor, Esperanza Bldg., Pacita Avenue, San Pedro, PH 4023</li>
+                    </ul>
+                    <ul class="list-unstyled li-space-lg">
+                        <li><i class="fas fa-phone"></i><a class="turquoise" href="tel:+639178425339">+63 917 842 5339</a></li>
+                        <li><i class="fas fa-envelope"></i><a class="turquoise" href="mailto:info@ahmoutsourcing.com">ahmoutsourcing.com</a></li>
                     </ul>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
                 <div class="col-lg-6">
                     <div class="map-responsive">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555098464!2d-122.507640204439!3d37.757814996609724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan+Francisco%2C+CA%2C+USA!5e0!3m2!1sen!2sro!4v1498231462606" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15461.759664521982!2d121.0608552!3d14.3439343!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd2cdb9a05096fd3!2sAHM%20Outsourcing%20Inc.!5e0!3m2!1sen!2sph!4v1593393380428!5m2!1sen!2sph" allowfullscreen></iframe>
                     </div>
                 </div> <!-- end of col -->
                 <div class="col-lg-6">

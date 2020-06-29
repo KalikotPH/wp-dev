@@ -13,11 +13,9 @@
     function getThemeField($key, $default) {
         $tarField = get_theme_mod( $key );
         if( empty($tarField) ) {
-            return $default;
-        } else {
-            return $tarField;
+            $tarField = $default;
         }
-        echo $tarField;
+        return $tarField;
     }
 
     //Get featured image of a post by id.
@@ -50,3 +48,4 @@
         );
     }
     add_action( 'widgets_init', 'ps_register_sidebars' );
+    
