@@ -1,12 +1,11 @@
-    
-    <?php
-        /**
-        * Theme Core - Theme Mod
-        *
-        * @package pasabuy
-        * @since 0.1.0
-        */
-    ?>
+<?php
+    /**
+    * Theme Core - Theme Mod
+    *
+    * @package uideck-evolo
+    * @since 0.1.0
+    */
+?>
 
 <?php
 

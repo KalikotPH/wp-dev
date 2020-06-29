@@ -2,7 +2,7 @@
 	/**
 	 * Basically, all the logic happens here.
 	 *
-	 * @package pasabuy
+	 * @package uideck-evolo
 	 * @since 0.1.0
 	 */
 

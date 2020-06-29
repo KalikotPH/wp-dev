@@ -1,4 +1,11 @@
 <?php
+	/**
+	* @package uideck-evolo
+	* @since 0.1.0
+	*/
+?>
+
+<?php
 $errorMSG = "";
 
 if (empty($_POST["name"])) {

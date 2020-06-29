@@ -2,7 +2,7 @@
     /**
     * Section for post options.
     *
-    * @package pasabuy
+    * @package uideck-evolo
     * @since 0.1.0
     */
 ?>

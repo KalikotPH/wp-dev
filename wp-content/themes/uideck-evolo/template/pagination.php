@@ -1,11 +1,15 @@
 <?php
-/**
- * A template partial to output pagination for the Twenty Twenty default theme.
- *
- * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
- *
- * @package hellopress
- */
+	/**
+	* A template partial to output pagination for the Twenty Twenty default theme.
+	*
+	* @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
+	* @package uideck-evolo
+	* @since 0.1.0
+	*/
+?>
+
+<?php
+
 	global $wp_query;
     
 	$big = 999999999; // need an unlikely integer

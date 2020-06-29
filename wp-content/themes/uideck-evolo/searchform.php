@@ -4,7 +4,7 @@
         * If WordPress cannot find front-page.php and “your latest posts” is 
         * set in the front page displays section, it will look for home.php. 
         *
-        * @package pasabuy
+        * @package uideck-evolo
         * @since 0.1.0
         */
     ?>

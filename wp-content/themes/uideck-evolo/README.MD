@@ -1,6 +1,6 @@
-# PasaBuy - WordPress Theme
+# UIDECK Evolo WordPress Theme
 
-PasaBuy is design and develop for you PasaBuy App frontend website owned by PasaBuy Tech.
+UIDECK Evolo is a purchased assets from UIDECK website and the sub-developer is entitled to to do some customization. In this case, we port this single web page to a WordPress theme.
 
 ## Getting Started
 
@@ -21,25 +21,19 @@ public_html/wp-contents/theme
 
 WordPress on Apache or Nginx.
 
-## Built With
-
-* [Bootstrap](https://getbootstrap.com/) - Quickly design and customize responsive web framework.
-* [FontAwesome](https://fontawesome.com/) - Get vector icons and social logos on your website.
-* [JQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
-
 ## Contributing
 
 Please read [CONTRIBUTING](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BytesCrafter). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/PROJECTNAMEHERE/tags). 
 
 ## Authors
 
-* **Bytes Crafter** - *Initial work* - [Github](https://github.com/BytesCrafter/PasaBuy-Theme-WordPress.git)
+* **Bytes Crafter** - *Initial work* - [Github](https://github.com/PROJECTNAMEHERE.git)
 
-See also the list of [contributors](https://github.com/BytesCrafter) who participated in this project.
+See also the list of [contributors](https://github.com/PROJECTNAMEHERE/graphs/contributors) who participated in this project.
 
 ## License
 
@@ -48,3 +42,4 @@ This project is licensed under the GNU GPL License - see the [LICENSE](LICENSE) 
 ## Acknowledgments
 
 * WordPress.org
+* UIDECK

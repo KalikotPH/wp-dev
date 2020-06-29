@@ -1,9 +1,8 @@
-
 <?php
 	/**
 	 * Customizer script.
 	 *
-	 * @package pasabuy
+	 * @package uideck-evolo
 	 * @since 0.1.0
 	 */
 ?>

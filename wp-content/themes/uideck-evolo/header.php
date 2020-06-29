@@ -2,7 +2,7 @@
 	/**
 	* The template for displaying the header
 	*
-	* @package pasabuy
+	* @package uideck-evolo
 	* @since 0.1.0
 	*/
 
